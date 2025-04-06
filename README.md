@@ -7,7 +7,7 @@ Hangman is a classic word-guessing game for two or more players. One player thin
 ## Requirements
 Python 3.13.2 or higher
 
-## How to run ⚙️
+## How to run :
 
 **Clone the Repository :**
  ```bash
