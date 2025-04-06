@@ -9,7 +9,7 @@ Python 3.13.2 or higher
 
 ## How to run ⚙️
 
-** Clone the Repository : **
+**Clone the Repository :**
  ```bash
     git clone https://github.com/sumitbk81/Hangman-Game.git
     cd Hangman-Game
